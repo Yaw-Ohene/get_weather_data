@@ -1,0 +1,7 @@
+city,country,temperature (C),humidity (%),weather,wind speed (m/s)
+Helsinki,FI,1.02,82,clear sky,4.92
+Accra,GH,28.23,89,light rain,4.12
+London,GB,10.23,90,overcast clouds,2.06
+New York,US,15.22,39,scattered clouds,10.8
+Tokyo,JP,15.32,44,clear sky,6.17
+Kokkola,FI,-0.19,80,clear sky,4.63
